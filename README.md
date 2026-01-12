@@ -36,7 +36,7 @@ This solution is built on a clean star-schema model:
 - `Date` – full calendar table with year, quarter, month, week fields (custom-generated in Power Query).
 
 **Screenshot of the Data Model:**  
-![Data Model Screenshot](/mnt/data/Screenshot_20250908_194323_Drive.jpg)
+![Data Model Screenshot](assets/data_model.png)
 
 ---
 
@@ -98,7 +98,7 @@ Evaluate product-level contribution to revenue and profitability.
 ### Customer Insights Dashboard
 
 **Purpose:**  
-Understand customer behavior, value distribution, and demographic impact on revenue.
+Understand customer behavior, value distribution, and demographic impact on revenue. 
 
 **Key KPIs:**
 - Customers Count
@@ -111,6 +111,8 @@ Understand customer behavior, value distribution, and demographic impact on reve
 - Who are the most valuable customers?
 - Which customer segments generate the highest revenue?
 - How diversified is customer revenue concentration?
+
+Click ![here](/assets/customer_dashboard.png) to view the dashboard
 
 ---
 

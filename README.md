@@ -36,7 +36,7 @@ This solution is built on a clean star-schema model:
 - `Date` – full calendar table with year, quarter, month, week fields (custom-generated in Power Query).
 
 **Screenshot of the Data Model:**  
-![Data Model Screenshot](https://github.com/simsbam/Maven-Electronic-Global-Store/blob/main/Data%20model.png)
+![Data Model Screenshot](https://github.com/simsbam/Maven-Electronic-Global-Store/blob/main/Data%20Model.png)
 
 ---
 
@@ -112,7 +112,7 @@ Understand customer behavior, value distribution, and demographic impact on reve
 - Which customer segments generate the highest revenue?
 - How diversified is customer revenue concentration?
 
-Click ![here](https://github.com/simsbam/Maven-Electronic-Global-Store/blob/main/Customer%20Dashboard.png) to view the dashboard
+![here](https://github.com/simsbam/Maven-Electronic-Global-Store/blob/main/Customer%20Dashboard.png) 
 
 ---
 

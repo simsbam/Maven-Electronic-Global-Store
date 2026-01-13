@@ -114,7 +114,7 @@ Understand customer behavior, value distribution, and demographic impact on reve
 - Which customer segments generate the highest revenue?
 - How diversified is customer revenue concentration?
 
-![here](https://github.com/simsbam/Maven-Electronic-Global-Store/blob/main/Customer%20Dashboard.png) 
+![Customer Dashboard](https://github.com/simsbam/Maven-Electronic-Global-Store/blob/main/Store%20Dashboard.png)
 
 ---
 
@@ -134,6 +134,8 @@ Analyze store contribution, maturity impact, and geographic performance.
 - How do new stores compare to established ones?
 - Which regions are over- or under-performing?
 - Where should expansion or optimization be focused?
+
+![Store Dashboard](https://github.com/simsbam/Maven-Electronic-Global-Store/blob/main/Customer%20Dashboard.png) 
 
 ---
 
@@ -170,3 +172,9 @@ The final Power BI report was deployed using best practices for performance, acc
 
 This deployment ensures stakeholders have timely access to reliable insights while maintaining a single source of truth for business performance reporting.
 
+---
+
+## Author
+**Simisola**  
+Actuarial Science Graduate | Insurance & Data Analytics  
+Excel • SQL • Power BI • Python

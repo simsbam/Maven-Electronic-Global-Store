@@ -73,6 +73,7 @@ Provide leadership with a high-level view of overall business performance and re
 - Is revenue improving or declining?
 - Are there seasonal patterns or structural drops?
 - How does current performance compare year-over-year?
+[Trend Dashboard](https://github.com/simsbam/Maven-Electronic-Global-Store/blob/main/Trend%20Dashboard.png)
 
 ---
 

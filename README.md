@@ -112,7 +112,7 @@ Understand customer behavior, value distribution, and demographic impact on reve
 - Which customer segments generate the highest revenue?
 - How diversified is customer revenue concentration?
 
-Click ![here](/assets/customer_dashboard.png) to view the dashboard
+Click ![here](/Maven-Electronic-Global-Store/blob/main/Customer Dashboard.png) to view the dashboard
 
 ---
 
